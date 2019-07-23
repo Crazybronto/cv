@@ -1,0 +1,25 @@
+body {
+  background-color:#aee7e8;
+
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 10%;
+
+}
+h1 {
+  color:#007065;
+  letter-spacing: 2px;
+  text-shadow: 3px 2px white;
+
+}
+h3 {
+  color:#007065;
+  
+}
+img {
+  box-shadow: 3px 5px 20px black;
+}
